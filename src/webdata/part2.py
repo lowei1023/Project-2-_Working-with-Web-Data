@@ -27,8 +27,8 @@ class CoinbaseAPI:
             return None
 
 # Example usage:
-api_key = "v7jFy9eiV2gsRqOs"
-api_secret = "FG2gW7aODTVhcXYpeoZv3zkxBNRqWdKE"
+api_key = "XXX"
+api_secret = "XXX"
 
 coinbase = CoinbaseAPI(api_key, api_secret)
 currency_pair = "BTC-USD"  # Example cryptocurrency pair
